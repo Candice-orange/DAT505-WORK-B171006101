@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+#showdaxiang1{
+  width: 100px;
+  height: 100px;
+  background: url("dalishi1.jpg") no-repeat;
+}
+#showdaxiang2{
+  width: 100px;
+  height: 100px;
+  background: url("dalishi2.jpg") no-repeat;
+}
+#showdaxiang3{
+  width: 100px;
+  height: 100px;
+  background: url("dalishi3.jpg") no-repeat;
+}
